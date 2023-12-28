@@ -1,5 +1,5 @@
 Hello, Bootcamp! 
 Hello, Bootcamp! 
 Hello, Bootcamp! 
-Hello, Bootcamp! 
-Frome feature/iss-5
+Hello, Bootcamp!
+From feature/iss-6 
